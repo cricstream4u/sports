@@ -1,33 +1,31 @@
 [
-  
   {
-    "title": "Willow Cricket",
-    "image": "https://cricstream4u.github.io/cinearena/willowbycricbuzz.jpg",
-    "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash-sd/enc/esfxq0vc3m/out/v1/2351aae1fe174bac8febb5d490876752/cenc-sd.mpd",
-    "keyId": "b9cf499d97387531e3bd9fdea2f7d81e",
-    "key": "8885e1b817d24b4e317c01d46178ef5c"
+    "title": "Astro Cricket",
+    "image": "https://cricstream4u.github.io/cinearena/astro.jpg",
+    "url": "https://d1yws6emo43ny.cloudfront.net/CH5/masterCH5.mpd",
+    "keyId": "a8eb0f152c6e429ca7a53f399aadf257",
+    "key": "c593c2eeea62742285b99e4d87b1c84a"
   },
   {
-    "title": "TNT Sports 2",
-    "image": "https://cricstream4u.github.io/cinearena/tnt2.jpg",
-    "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
-    "keyId": "9f51f3dc6313ac8bc668e2d9d1c04dfa",
-    "key": "74bc63e5a193454a91ca494975db33f9"
+    "title": "ShoQ",
+    "image": "https://cricstream4u.github.io/cinearena/shoq.jpg",
+    "url": "https://live2.shoq.com.pk/live/eds/ICC_Women_World_Cup_2025/DASH/ICC_Women_World_Cup_2025.mpd",
+    "keyId": "a6dfc4f17d70d8d07639659193f03b25",
+    "key": "893eacfabe386144b81733d622a7ad17"
   },
   {
-    
-    "title": "Willow Sports",
-    "image": "https://cricstream4u.github.io/cinearena/willowsports.jpg",
-    "url": "https://a170aivottlinear-a.akamaihd.net/OTTB/fra-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
-    "keyId": "1779c27b9d077a3ba0c9cc1bb9a94b9f",
-    "key": "cc5cf3b7928fb9e0a1ee6a8b566f0a8e"
+    "title": "AMZ Hindi",
+    "image": "https://cricstream4u.github.io/cinearena/peimehindi.jpg",
+    "url": "https://ottb.live.cf.ww.aiv-cdn.net/sin-nitro/live/dash/enc/feh5lmnfkl/out/v1/2f30a0bcdbc64a09b2e101d0b71ed290/cenc.mpd",
+    "keyId": "c349ec4cb941fbf48a81798dffe7e5eb",
+    "key": "857bfaea3e7173bc3c63ce3749cabfcf"
   },
   {
-    "title": "Sports18 Khel",
-    "image": "https://jiotvimages.cdn.jio.com/dare_images/images/Sports18_Khel.png",
-    "url": "https://jiotvpllive.cdn.jio.com/bpk-tv/Sports18_Khel_BTS/output/index.mpd",
-    "keyId": "ab947ddbb9795d38bff35597b4f73108",
-    "key": "2671e22eb7dc174c35b6aad4b113f7b0"
+    "title": "CricLife MAX",
+    "image": "",
+    "url": "https://ev-fast-mpd.starzplayarabia.com/live/eds/CricLifeMax/DASH/CricLifeMax.mpd",
+    "keyId": "ad59b720bd4b44d063686212b99484b5",
+    "key": "e1744990edf98acc729c0773a3766583"
   },
   {
     "title": "TNT Sports 1",
@@ -37,10 +35,41 @@
     "key": "d6853c51fcf37a18905f0609972395d7"
   },
   {
+    "title": "TNT Sports 2",
+    "image": "https://cricstream4u.github.io/cinearena/tnt2.jpg",
+    "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd",
+    "keyId": "9f51f3dc6313ac8bc668e2d9d1c04dfa",
+    "key": "74bc63e5a193454a91ca494975db33f9"
+  },
+  {
     "title": "TNT Sports 3",
     "image": "https://cricstream4u.github.io/cinearena/tnt3.jpg",
     "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd",
     "keyId": "a93c1cbfdccd23233bac13540c693e7f",
     "key": "2f6ab2e6693eb847eff3c9da8f9d01fc"
+  },
+  {
+    "title": "TNT Sports 4",
+    "image": "https://cricstream4u.github.io/cinearena/tnt4.jpg",
+    "url": "https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd",
+    "keyId": "192b1115da041585c77200128549efa1",
+    "key": "634e10efe4abbb14be400a3ccbac0258"
+  },
+  {
+    "title": "Willow",
+    "image": "https://cricstream4u.github.io/cinearena/willowbycricbuzz.jpg",
+    "url": "https://abgqjfuaaaaaaaamj5xwfjgf673wk.955b1eb24af546b682010f3149a1c6d1.emt.cf.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/osghbqtswt/out/v1/bb336e2e60e744b2a48a6b88b8857a5e/cenc.mpd",
+    "keyId": "3939a9f4ca47ad3feebd7062939d6621",
+    "key": "ddc77a322af12e2e955e0a3b7df76a1e"
+  },
+  {
+    "title": "Willow Sports",
+    "image": "https://cricstream4u.github.io/cinearena/willowsports.jpg",
+    "url": "https://abmyxykaaaaaaaamkyvb65fuqebyg.7a77200bf98444ac997a89ed83775793.emt.cf.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/f60kqesunw/out/v1/a435ed7a00f947deb4369b46d8f2fb70/cenc.mpd",
+    "keyId": "1779c27b9d077a3ba0c9cc1bb9a94b9f",
+    "key": "cc5cf3b7928fb9e0a1ee6a8b566f0a8e"
   }
 ]
+
+
+
